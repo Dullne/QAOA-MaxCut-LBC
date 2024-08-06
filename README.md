@@ -1,1 +1,1 @@
-# QAOA-MaxCut-QBC
+# QAOA-MaxCut-LBC
